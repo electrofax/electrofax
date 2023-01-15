@@ -6,4 +6,8 @@
     <a href="https://t.me/electrofax">
   <img src="https://img.shields.io/badge/Telegram-lightgray?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter Badge"/>
    </a>
+    <a href="https://www.instagram.com/anti_poser/">
+  <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    </a>
 </div>
+
