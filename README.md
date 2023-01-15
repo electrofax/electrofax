@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.gifer.com/origin/61/61120f845c3a7947814773f84c7cb4f5_w200.webp" width="300"/>
+  <img src="https://i.gifer.com/origin/c3/c3f3ec775a87bc8a2486461ea7208198_w200.webp" width="300"/>
 </div>
 
 <div id="badges" align="center">
